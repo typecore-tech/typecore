@@ -1,8 +1,8 @@
 # P-002: No Legacy Constraints
 
-| Field | Value |
-|-------|-------|
-| **ID** | P-002 |
+| Field      | Value    |
+|------------|----------|
+| **ID**     | P-002    |
 | **Status** | accepted |
 
 ## Statement

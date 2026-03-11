@@ -1,8 +1,8 @@
 # P-001: Everything Is an Object
 
-| Field | Value |
-|-------|-------|
-| **ID** | P-001 |
+| Field      | Value    |
+|------------|----------|
+| **ID**     | P-001    |
 | **Status** | accepted |
 
 ## Statement

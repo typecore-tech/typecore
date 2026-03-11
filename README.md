@@ -24,12 +24,12 @@ TypeCore starts over.
 
 ## Product Family
 
-| Component              | Description                                    |
-|------------------------|------------------------------------------------|
-| **TypeCore OS**        | The full operating system                      |
-| **TypeCore Kernel**    | Microkernel with capability security           |
-| **TypeCore Runtime**   | Object runtime — type dispatch, async, policy  |
-| **TypeCore Stdlib**    | Standard types, interfaces, and utilities      |
+| Component            | Description                                   |
+|----------------------|-----------------------------------------------|
+| **TypeCore OS**      | The full operating system                     |
+| **TypeCore Kernel**  | Microkernel with capability security          |
+| **TypeCore Runtime** | Object runtime — type dispatch, async, policy |
+| **TypeCore Stdlib**  | Standard types, interfaces, and utilities     |
 
 ## Status
 
